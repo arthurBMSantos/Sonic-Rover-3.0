@@ -20,10 +20,10 @@ html,head,body{
 .letter {
     font-size: x-large;
     font-weight: bold; /* Deixa as letras em negrito */
-    color: black; /* Cor das letras */
+    color: #dedcd8; /* Cor das letras */
     text-align: center; /* Centraliza a letra na célula */
     font-weight: bold;
-    border: 2px solid #dedcd8;
+    border: 2px solid black;
     border-radius: 20%;
     width: 40px; /* Largura da borda */
     height: 30px; /* Altura da borda */
