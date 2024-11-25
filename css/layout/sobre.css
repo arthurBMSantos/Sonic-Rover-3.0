@@ -51,3 +51,25 @@ h1{
 img{
     margin-left: 40%;
 }
+@media (max-width: 768px) {
+    body {
+      font-size: 14px;
+    }
+    .container {
+      flex-direction: column; /* Empilha os elementos */
+    }
+  }
+  
+  /* Para telas médias (tablets) */
+  @media (min-width: 769px) and (max-width: 1024px) {
+    body {
+      font-size: 16px;
+    }
+  }
+  
+  /* Para telas grandes (notebooks ou desktops) */
+  @media (min-width: 1025px) {
+    body {
+      font-size: 18px;
+    }
+  }
