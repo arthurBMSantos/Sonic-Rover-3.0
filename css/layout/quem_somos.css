@@ -1,0 +1,32 @@
+.nav-Q-S{
+    text-align: center;
+    justify-content: space-around;
+}
+ul{
+    display: flex;
+    background-color: #265e93;
+    margin-bottom: 100px;
+    margin-top: -10px;
+    padding: 8px;
+    margin-right: -50px;
+    margin-left: -10px;
+}
+li, a{
+    font-size: larger;
+    color:white;
+    list-style: none;
+    text-decoration: none;
+    margin-left: 136px;
+    background-color: #265e93;
+    padding: 10px;
+}
+html,head,body{
+    width: 100%;
+    overflow-x: hidden;
+}
+p{
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    
+}
